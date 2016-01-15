@@ -2,12 +2,11 @@
 /**
  * Created by PhpStorm.
  * User: guilherme
- * Date: 14/01/2016
- * Time: 14:02
+ * Date: 15/01/2016
+ * Time: 07:58
  */
 
 namespace Guilherme\SON;
-
 
 class HelloPackage
 {
